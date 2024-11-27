@@ -1,9 +1,7 @@
 venv
 LazyVoiceFinder_export.csv
-skyrim_alpaca_style_dataset_ORIGINAL.json
 *.json
 *.jsonl
 .ipynb_checkpoints
 .ipynb_checkpoints/
 .ipynb_checkpoints/*
-
